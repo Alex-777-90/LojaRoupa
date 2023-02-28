@@ -6,7 +6,7 @@ const Body = () => {
   return (
     <StyledBody>
        <section className='aboutImage'>
-          <h4>Nome: Camiseta do Liverpool</h4>
+          <h4>Camiseta do Liverpool</h4>
           <img src={TestImage} alt="imagem da roupa"/>
        </section>
        <section>

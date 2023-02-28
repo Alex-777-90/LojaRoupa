@@ -28,7 +28,7 @@ export const StyledBody = styled.body`
     .details {
         margin-top:-70px; 
         margin-bottom:27px;
-        margin-left:20px;
+        margin-left:17px;
     }
 
     .buttons button{
