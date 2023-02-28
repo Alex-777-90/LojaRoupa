@@ -8,6 +8,10 @@ export const StyledHeader= styled.header`
     flex-direction: column;
     margin-bottom:20px;
 
+    input{
+        height:30px;
+    }
+
     .lupa{
         font-size:170%;
         color:red;
