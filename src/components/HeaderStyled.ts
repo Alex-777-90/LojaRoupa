@@ -20,4 +20,8 @@ export const StyledHeader= styled.header`
         margin-top:20px;
     }
 
+    .title{
+        margin-top:20px;
+    }
+
 `
